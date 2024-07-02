@@ -9,7 +9,11 @@ This repository hosts supportive material for the seminar paper, offering resour
 Explore the replication and extension of the influential study, "Subsidizing Vocational Training for Disadvantaged Youth in Colombia." Dive into the analysis with provided [original data](https://www.aeaweb.org/articles?id=10.1257/app.3.3.188).
 
 ### 2. Simulation of Heterogeneous Treatment Effects
-Engage with simulations showcasing heterogeneous treatment effects across two distinct cases, providing deeper insights into treatment variability.
+Engage with simulations showcasing heterogeneous treatment effects across three cases: 
+1. **Case 1:** No confounding and linear effect heterogeneity
+2. **Case 2:** Nonlinear confounding and linear effect heterogeneity
+3. **Case 3:** Non-parametric heterogeneity
+
 
 ## How to Use
 
