@@ -1,7 +1,7 @@
 
 # Master Seminar in Econometrics - University of Tübingen
 
-Welcome to the official GitHub repository for the Master Seminar in Econometrics at the University of Tübingen! This repository hosts supportive material for the seminar paper, offering valuable resources and code for replication and extension projects.
+This repository hosts supportive material for the seminar paper, offering resources and code for replication and extension projects.
 
 ## What's Inside?
 
